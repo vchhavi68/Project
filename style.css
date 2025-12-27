@@ -1,0 +1,13 @@
+
+#error,
+#passwordError {
+  color: red;
+}
+#error,
+#emailError{
+  color:red;
+}
+
+#success {
+  color: green;
+}
